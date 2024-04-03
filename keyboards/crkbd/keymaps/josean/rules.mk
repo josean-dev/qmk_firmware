@@ -1,0 +1,9 @@
+LEADER_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+WPM_ENABLE = yes  # Enable word per minute counter
+LTO_ENABLE = yes  # Makes hex file smaller
+OLED_ENABLE = yes # Enable OLEDs
+MAGIC_ENABLE = no
+GRAVE_ESC_ENABLE = no
+SPACE_CADET_ENABLE = no
+COMMAND_ENABLE = no
